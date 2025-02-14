@@ -1,0 +1,1 @@
+This example showcases a common, yet subtle, error in Ruby: directly manipulating instance variables outside of defined methods. While functional, this practice undermines encapsulation and can introduce unforeseen issues. The solution demonstrates a preferred method for modifying object states.
